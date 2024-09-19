@@ -1,4 +1,4 @@
-// Học các thêm element vào bên trong hay bên ngoài một element
+// Học cách thêm element vào bên trong hay bên ngoài một element
 
 // Dùng innerHTML để thêm element vào bên trong một element
 var boxElement = document.querySelector(".box");
